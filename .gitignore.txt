@@ -1,0 +1,5 @@
+mini-Project/
+exercise/
+
+__pycache__/
+*.pyc
