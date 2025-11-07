@@ -1,4 +1,4 @@
-mini-Project/
+mini-project/
 exercise/
 
 __pycache__/
