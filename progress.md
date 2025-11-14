@@ -1,3 +1,4 @@
+14.11.2025  -- new Project
 13.11.2025  -- started excercise
             -- finished mini-project
 12.11.2025  -- new excercise
