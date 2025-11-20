@@ -1,3 +1,4 @@
+19.11.2025  -- deubugging challenges
 18.11.2025  -- watched tutorials
             -- implement what I have learned
             -- finished mini-Project
