@@ -1,3 +1,5 @@
+24.11.2025  -- new project
+            -- new excercise
 22.11.2025  -- finished mini-project
 19.11.2025  -- deubugging challenges
 18.11.2025  -- watched tutorials
