@@ -1,3 +1,6 @@
+28.11.2025  -- continued Project
+27.11.2025  -- excercise 
+            -- new Project
 24.11.2025  -- new project
             -- new excercise
 22.11.2025  -- finished mini-project
