@@ -1,3 +1,4 @@
+01.12.2025  -- finished Project
 28.11.2025  -- continued Project
 27.11.2025  -- excercise 
             -- new Project
