@@ -1,3 +1,5 @@
+03.12.2025  -- challenge completed
+            -- new project -- started
 02.12.2025  -- exercise 
             -- finished mini-project
 01.12.2025  -- finished Project
@@ -9,7 +11,7 @@
 24.11.2025  -- new project
             -- new exercise
 22.11.2025  -- finished mini-project
-19.11.2025  -- deubugging challenges
+19.11.2025  -- debugging challenges
 18.11.2025  -- watched tutorials
             -- implement what I have learned
             -- finished mini-Project
