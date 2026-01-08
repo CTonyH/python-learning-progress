@@ -1,3 +1,5 @@
+09.01.2026  -- completed exercise 
+08.01.2026  -- new exercise
 09.12.2025  -- new exercise
 03.12.2025  -- challenge completed
             -- new project -- started
