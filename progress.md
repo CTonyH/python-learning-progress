@@ -1,7 +1,8 @@
-10.11.2026  -- new small Project
-09.01.2026  -- completed exercise 
+09.01.2026  -- new small Project
+            -- new exercise
+08.01.2026  -- completed exercise 
             -- new exercise 
-08.01.2026  -- new exercise
+07.01.2026  -- new exercise
 09.12.2025  -- new exercise
 03.12.2025  -- challenge completed
             -- new project -- started
