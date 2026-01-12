@@ -1,3 +1,5 @@
+12.01.2026  -- finished small project
+10.01.2026  -- small exercise
 09.01.2026  -- new small Project
             -- new exercise
 08.01.2026  -- completed exercise 
