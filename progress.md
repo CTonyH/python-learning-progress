@@ -1,3 +1,4 @@
+15.01.2026  -- finished mini project Pomodoro
 14.01.2026  -- finished project
             -- exercise 
 12.01.2026  -- finished small project
